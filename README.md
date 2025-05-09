@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Joseph – @IamJosephDev
 
-<!--
-**IamJosephDev/IamJosephDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Newbie | Web3 Native | Software Engineer**  
+Exploring how AI + Web3 can solve real problems.  
+Building in public and sharing everything I learn.
 
-Here are some ideas to get you started:
+- Learning: Machine Learning, Prompt Engineering, Smart Contracts  
+- Building: Tools, bots, and experiments (in AI & Web3)  
+- Creating: Manga (@TH3DIVISION) | Code | Ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me here:
+- Twitter: [@Joetronica](https://twitter.com/Joetronica)  
+- GitHub: [@IamJosephDev](https://github.com/IamJosephDev)  
+- LinkedIn: [Joseph Esomnwanne](https://www.linkedin.com/in/joseph-esomnwanne)  
+- Manga: [@TH3DIVISION](https://twitter.com/TH3DIVISION)
